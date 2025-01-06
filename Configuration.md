@@ -26,8 +26,7 @@ On the left-hand side, choose Version Control, then GitHub
 
 If you have not done so, accept CS212-classexample assignment here:
 
-https://classroom.github.com/a/VEzKc_J5
-
+[https://classroom.github.com/a/RtRgFxdd](https://classroom.github.com/a/RtRgFxdd)
 
 
 Click on Add account and follow the instructions to log in to GitHub and authorize the link between IntelJ and GitHub. Make sure to hit the Grand button next to hbui-cs212-S25
@@ -42,7 +41,7 @@ You will see this window with your account listed, hit Apply and OK to get back 
 
 
 
-## Step 3: Check to see if your Github account is actually connected
+## Step 3: Check to see if your Github account is connected
 From the main Menu, go to Projects and select Get from VCS (Version Control System)
 
 ![image](https://github.com/user-attachments/assets/7585f92f-bbf7-4cff-9d15-5f484f8d0b85)
