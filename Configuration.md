@@ -24,19 +24,15 @@ On the left-hand side, choose Version Control, then GitHub
 ![image](https://github.com/user-attachments/assets/5e6d32fe-a944-4246-a55d-811ca584a455)
 
 
-If you have not done so, accept CS212-classexample assignment here:
 
-[https://classroom.github.com/a/RtRgFxdd](https://classroom.github.com/a/RtRgFxdd)
-
-
-Click on Add account and follow the instructions to log in to GitHub and authorize the link between IntelJ and GitHub. Make sure to hit the Grand button next to hbui-cs212-S25
+Click on Add account and follow the instructions to log in to GitHub and authorize the link between IntelJ and GitHub.
 
 ![image](https://github.com/user-attachments/assets/95689a9e-e587-42ca-9ba6-9311b54e0e5f)
 
 
 You will see this window with your account listed, hit Apply and OK to get back to the main menu.
 
-![image](https://github.com/user-attachments/assets/4db7d011-e2f3-4507-9ce8-dc0a5e0f9a5f)
+<img width="984" alt="image" src="https://github.com/user-attachments/assets/a3ecddc4-4b4b-458f-9092-f20cb2325686" />
 
 
 
