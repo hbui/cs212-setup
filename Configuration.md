@@ -27,10 +27,7 @@ On the left-hand side, choose Version Control, then GitHub
 
 Click on Add account and follow the instructions to log in to GitHub and authorize the link between IntelJ and GitHub.
 
-![image](https://github.com/user-attachments/assets/95689a9e-e587-42ca-9ba6-9311b54e0e5f)
-
-
-You will see this window with your account listed, hit Apply and OK to get back to the main menu.
+You will see this window with your account listed, hit Authorize in GitHub.
 
 <img width="984" alt="image" src="https://github.com/user-attachments/assets/a3ecddc4-4b4b-458f-9092-f20cb2325686" />
 
