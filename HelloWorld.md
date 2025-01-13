@@ -1,5 +1,6 @@
 # Get a repository from Git to IntelliJ
-[https://classroom.github.com/a/RtRgFxdd](https://classroom.github.com/a/RtRgFxdd)
+
+[https://classroom.github.com/a/zxkoTWhO] (https://classroom.github.com/a/zxkoTWhO)
 
 Click on the link and Accept, you should see:
 
