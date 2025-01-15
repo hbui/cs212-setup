@@ -32,6 +32,22 @@ You will see this window with your account listed, hit Authorize in GitHub.
 <img width="984" alt="image" src="https://github.com/user-attachments/assets/a3ecddc4-4b4b-458f-9092-f20cb2325686" />
 
 
+After that, on your browser, go to www.github.com, on the top right corner, click on your user avatar and go to setting.
+
+![image](https://github.com/user-attachments/assets/7ceb6d67-b8b1-47e1-96d7-fbd279d865a3)
+
+Scroll down and click on Applications (on the left side)
+![image](https://github.com/user-attachments/assets/32ded8a1-9c83-49a1-ac4c-4e07492c5333)
+
+Click on Authorized OAuth Apps, you should see JetBrains IDE Integration, click on it
+
+![image](https://github.com/user-attachments/assets/03aa9ae5-f441-4126-a28c-b1c6498dd9c4)
+
+Scroll down to see:hbui-cs212-S25, and hit **grant**
+
+![image](https://github.com/user-attachments/assets/39ae6a60-ca3f-484a-a87f-5ca11f132234)
+
+
 
 
 ## Step 3: Check to see if your Github account is connected
